@@ -142,22 +142,3 @@ run(paths_kvasir, "Kvasir-SEG")
 print("✅ AG-WGSO execution completed successfully")
 
      
-/tmp/ipython-input-1483418658.py:26: DeprecationWarning: Python 3.14 will, by default, filter extracted tar archives and reject files or modify their metadata. Use the filter argument to control this behavior.
-  tar.extractall(dest)
-✅ BSDS300 loaded
-⚠️ Kvasir-SEG skipped
-
-
-
-
-
-📌 BSDS300 AVG → PSNR=17.07, SSIM=0.623
-
-
-📌 Kvasir-SEG AVG → PSNR=nan, SSIM=nan
-
-✅ AG-WGSO execution completed successfully
-/usr/local/lib/python3.12/dist-packages/numpy/_core/fromnumeric.py:3596: RuntimeWarning: Mean of empty slice.
-  return _methods._mean(a, axis=axis, dtype=dtype,
-/usr/local/lib/python3.12/dist-packages/numpy/_core/_methods.py:138: RuntimeWarning: invalid value encountered in scalar divide
-  ret = ret.dtype.type(ret / rcount)
