@@ -1,7 +1,3 @@
-
-
-
-
 !pip install -q pillow scipy matplotlib scikit-image tqdm opencv-python
 
 # -------------------- Imports --------------------
