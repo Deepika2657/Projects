@@ -67,8 +67,7 @@ The proposed method is evaluated using the following metrics:
 Click the link below to run the complete implementation:
 
 **Open in Colab:**  
-https://colab.research.google.com/drive/10hSZoHCOk7dlwSvzZ2_yne2-t0fPNXNO
-
+https://colab.research.google.com/drive/1DzGHw3GeZQ3vLCbtoCMBRoV7veYSy_0Q
 ---
 
 ## Repository Structure
